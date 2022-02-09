@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kufikus, AKA kufr
+- 👀 I’m interested in Python, C++, PHP and JavaScript / I’m absolute begginer
+- 🌱 I’m currently learning all of above
